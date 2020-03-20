@@ -1,5 +1,5 @@
 config:
-  info: springcloud-cofig-test,versin=1
+  info: springcloud-cofig-test,versin=2
 server:
   port: 3355
 eureka:
