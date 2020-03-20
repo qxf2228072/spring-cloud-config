@@ -8,3 +8,8 @@ eureka:
     fetchRegistry: true
     serviceUrl:
       defaultZone: http://eureka.didispace.com/eureka/
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
