@@ -1,7 +1,5 @@
 config:
   info: springcloud-cofig-test,versin=3
-server:
-  port: 3366
 eureka:
   client:
     registerWithEureka: true
