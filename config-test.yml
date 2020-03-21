@@ -1,5 +1,5 @@
 config:
-  info: springcloud-cofig-test,versin=3
+  info: springcloud-cofig-test,versin=4
 eureka:
   client:
     registerWithEureka: true
